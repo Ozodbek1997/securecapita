@@ -1,4 +1,3 @@
-------------------Applications requirements----------
 # Application Requirements
 
 ## Application User
