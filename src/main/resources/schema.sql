@@ -20,8 +20,8 @@
 CREATE SCHEMA IF NOT EXISTS securecapita;
 
 SET NAMES 'UTF8MB4';
-SET TIME_ZONE = 'US/Eastern';
-SET TIME_ZONE = '-4:00';
+SET TIME_ZONE = 'Asia/Seoul';
+ SET TIME_ZONE = '+09:00';
 
 USE securecapita;
 
