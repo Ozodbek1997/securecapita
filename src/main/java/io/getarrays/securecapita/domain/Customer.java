@@ -14,10 +14,10 @@ import static jakarta.persistence.FetchType.EAGER;
 import static jakarta.persistence.GenerationType.IDENTITY;
 
 /**
- * @author Junior RT
- * @version 1.0
- * @license Get Arrays, LLC (https://getarrays.io)
- * @since 5/11/2023
+ * @author: Bek
+ * since: 05/27/2023
+ * Time: 11:30 AM
+ * Project Name: securecapita
  */
 
 @Setter

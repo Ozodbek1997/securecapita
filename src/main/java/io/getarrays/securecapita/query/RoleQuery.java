@@ -1,10 +1,10 @@
 package io.getarrays.securecapita.query;
 
 /**
- * @author Junior RT
- * @version 1.0
- * @license Get Arrays, LLC (https://getarrays.io)
- * @since 8/28/2022
+ * @author: Bek
+ * since: 05/27/2023
+ * Time: 11:30 AM
+ * Project Name: securecapita
  */
 public class RoleQuery {
     public static final String SELECT_ROLES_QUERY = "SELECT * FROM Roles ORDER BY id";

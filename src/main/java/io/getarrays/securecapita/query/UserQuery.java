@@ -1,10 +1,10 @@
 package io.getarrays.securecapita.query;
 
 /**
- * @author Junior RT
- * @version 1.0
- * @license Get Arrays, LLC (https://getarrays.io)
- * @since 8/28/2022
+ * @author: Bek
+ * since: 05/27/2023
+ * Time: 11:30 AM
+ * Project Name: securecapita
  */
 public class UserQuery {
     public static final String INSERT_USER_QUERY = "INSERT INTO Users (first_name, last_name, email, password) VALUES (:firstName, :lastName, :email, :password)";

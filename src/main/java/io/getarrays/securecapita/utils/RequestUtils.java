@@ -11,10 +11,10 @@ import static nl.basjes.parse.useragent.UserAgent.DEVICE_NAME;
 import static nl.basjes.parse.useragent.UserAgent.OPERATING_SYSTEM_NAME;
 
 /**
- * @author Junior RT
- * @version 1.0
- * @license Get Arrays, LLC (https://getarrays.io)
- * @since 3/21/2023
+ * @author: Bek
+ * since: 05/27/2023
+ * Time: 11:30 AM
+ * Project Name: securecapita
  */
 public class RequestUtils {
 

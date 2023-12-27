@@ -7,10 +7,10 @@ import com.twilio.type.PhoneNumber;
 import static com.twilio.rest.api.v2010.account.Message.creator;
 
 /**
- * @author Junior RT
- * @version 1.0
- * @license Get Arrays, LLC (https://getarrays.io)
- * @since 12/25/2022
+ * @author: Bek
+ * since: 05/27/2023
+ * Time: 11:30 AM
+ * Project Name: securecapita
  */
 public class SmsUtils {
     public static final String FROM_NUMBER = "<Your own number from Twilio>";

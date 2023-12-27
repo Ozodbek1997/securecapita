@@ -5,10 +5,10 @@ import io.getarrays.securecapita.dto.UserDTO;
 import org.springframework.security.core.Authentication;
 
 /**
- * @author Junior RT
- * @version 1.0
- * @license Get Arrays, LLC (https://getarrays.io)
- * @since 3/13/2023
+ * @author: Bek
+ * since: 05/27/2023
+ * Time: 11:30 AM
+ * Project Name: securecapita
  */
 public class UserUtils {
     public static UserDTO getAuthenticatedUser(Authentication authentication) {

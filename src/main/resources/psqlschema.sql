@@ -1,9 +1,11 @@
 ####################################################################
 ###                                                             ####
-### Author: Junior RT                                           ####
-### License: Get Arrays LLC License (https://getarrays.io)      ####
-### Date: December 29th, 2022                                   ####
-### Version: 1.0                                                ####
+/**
+ * @author: Bek
+ * since: 05/27/2023
+ * Time: 11:30 AM
+ * Project Name: securecapita
+ */                                              ####
 ###                                                             ####
 ####################################################################
 

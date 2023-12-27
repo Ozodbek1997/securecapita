@@ -42,9 +42,10 @@ import static org.springframework.security.authentication.UsernamePasswordAuthen
 import static org.springframework.web.servlet.support.ServletUriComponentsBuilder.fromCurrentContextPath;
 
 /**
- * @author Junior RT
- * @version 1.0
- * @since 3/24/2023
+ * @author: Bek
+ * since: 05/27/2023
+ * Time: 11:30 AM
+ * Project Name: securecapita
  */
 
 @RestController

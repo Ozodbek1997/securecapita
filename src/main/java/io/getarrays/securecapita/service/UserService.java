@@ -6,10 +6,10 @@ import io.getarrays.securecapita.form.UpdateForm;
 import org.springframework.web.multipart.MultipartFile;
 
 /**
- * @author Junior RT
- * @version 1.0
- * @license Get Arrays, LLC (https://getarrays.io)
- * @since 8/28/2022
+ * @author: Bek
+ * since: 05/27/2023
+ * Time: 11:30 AM
+ * Project Name: securecapita
  */
 public interface UserService {
     UserDTO createUser(User user);
